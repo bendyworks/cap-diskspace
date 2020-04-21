@@ -1,0 +1,8 @@
+{
+  "appId": "com.bendyworks.capDiskspace.SampleApp",
+  "appName": "SampleApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
